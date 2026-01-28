@@ -1,0 +1,267 @@
+[
+  {
+    "id": "asd",
+    "titulo": "asd",
+    "imagen": "C:\\Users\\Programar\\Desktop\\pruebaCMS\\imagenes",
+    "ficha_tecnica": {
+      "plataformas": "asd",
+      "desarrollador": "asd",
+      "editor": "asd",
+      "requisitos_minimos": {
+        "so": "asd",
+        "cpu": "asd",
+        "ram": "asd",
+        "gpu": "sad",
+        "directX": "asd",
+        "red": "sad",
+        "disco": "asd",
+        "notas": "asd"
+      },
+      "requisitos_recomendados": {
+        "so": "asd",
+        "cpu": "asd",
+        "ram": "sad",
+        "gpu": "sad",
+        "directX": "asd",
+        "red": "asd",
+        "disco": "sad",
+        "notas": "asd"
+      },
+      "sinopsis": "asd"
+    },
+    "opinion": {
+      "historia": "asd",
+      "logros": "sad",
+      "mecanicas": "asd",
+      "conclusiones": "asd"
+    },
+    "recursos": [
+      {
+        "tipo": "video",
+        "enlace": "asd",
+        "autor": "asd"
+      }
+    ],
+    "enlaces_compra": [
+      {
+        "plataforma": "asd",
+        "enlace": "asd"
+      }
+    ]
+  },
+  {
+    "id": "www",
+    "titulo": "www",
+    "imagen": "C:\\Users\\Programar\\Desktop\\pruebaCMS\\imagenes",
+    "ficha_tecnica": {
+      "plataformas": "asddfg",
+      "desarrollador": "fdgfdgfd",
+      "editor": "asddfgfdg",
+      "requisitos_minimos": {
+        "so": "asddfg",
+        "cpu": "asddfg",
+        "ram": "asddfg",
+        "gpu": "sadghj",
+        "directX": "asdghj",
+        "red": "sadghj",
+        "disco": "asdghj",
+        "notas": "asdghj"
+      },
+      "requisitos_recomendados": {
+        "so": "asdghj",
+        "cpu": "asdghj",
+        "ram": "sadghj",
+        "gpu": "sadghj",
+        "directX": "asdghj",
+        "red": "asdghj",
+        "disco": "sadghj",
+        "notas": "asdghj"
+      },
+      "sinopsis": "asdghj"
+    },
+    "opinion": {
+      "historia": "asdghj",
+      "logros": "sadghj",
+      "mecanicas": "asdghj",
+      "conclusiones": "asdghj"
+    },
+    "recursos": [
+      {
+        "tipo": "video",
+        "enlace": "asdghj",
+        "autor": "asdghj"
+      },
+      {
+        "tipo": "artículo",
+        "enlace": "ghj",
+        "autor": "ghj",
+        "titulo": "ghj",
+        "snippet": "ghj"
+      }
+    ],
+    "enlaces_compra": [
+      {
+        "plataforma": "asdghj",
+        "enlace": "asdghj"
+      },
+      {
+        "plataforma": "ghj",
+        "enlace": "ghj"
+      }
+    ]
+  },
+  {
+    "id": "www_wiwiwi",
+    "titulo": "www wiwiwi",
+    "imagen": "C:\\Users\\Programar\\Desktop\\pruebaCMS\\imagenes",
+    "ficha_tecnica": {
+      "plataformas": "asddfg",
+      "desarrollador": "fdgfdgfd",
+      "editor": "asddfgfdg",
+      "requisitos_minimos": {
+        "so": "asddfg",
+        "cpu": "asddfg",
+        "ram": "asddfg",
+        "gpu": "sadghj",
+        "directX": "asdghj",
+        "red": "sadghj",
+        "disco": "asdghj",
+        "notas": "asdghj"
+      },
+      "requisitos_recomendados": {
+        "so": "asdghj",
+        "cpu": "asdghj",
+        "ram": "sadghj",
+        "gpu": "sadghj",
+        "directX": "asdghj",
+        "red": "asdghj",
+        "disco": "sadghj",
+        "notas": "asdghj"
+      },
+      "sinopsis": "asdghj"
+    },
+    "opinion": {
+      "historia": "asdghj",
+      "logros": "sadghj",
+      "mecanicas": "asdghj",
+      "conclusiones": "asdghj"
+    },
+    "recursos": [
+      {
+        "tipo": "video",
+        "enlace": "asdghj",
+        "autor": "asdghj"
+      },
+      {
+        "tipo": "artículo",
+        "enlace": "ghj",
+        "autor": "ghj",
+        "titulo": "ghj",
+        "snippet": "ghj"
+      }
+    ],
+    "enlaces_compra": [
+      {
+        "plataforma": "asdghj",
+        "enlace": "asdghj"
+      },
+      {
+        "plataforma": "ghj",
+        "enlace": "ghj"
+      }
+    ]
+  },
+  {
+    "id": "wowowow_wiwiwi",
+    "titulo": "WOWOWOW wiwiwi",
+    "imagen": "C:\\Users\\Programar\\Desktop\\pruebaCMS\\imagenes",
+    "ficha_tecnica": {
+      "plataformas": "asddfg",
+      "desarrollador": "fdgfdgfd",
+      "editor": "asddfgfdg",
+      "requisitos_minimos": {
+        "so": "asddfg",
+        "cpu": "asddfg",
+        "ram": "asddfg",
+        "gpu": "sadghj",
+        "directX": "asdghj",
+        "red": "sadghj",
+        "disco": "asdghj",
+        "notas": "asdghj"
+      },
+      "requisitos_recomendados": {
+        "so": "asdghj",
+        "cpu": "asdghj",
+        "ram": "sadghj",
+        "gpu": "sadghj",
+        "directX": "asdghj",
+        "red": "asdghj",
+        "disco": "sadghj",
+        "notas": "asdghj"
+      },
+      "sinopsis": "asdghj"
+    },
+    "opinion": {
+      "historia": "asdghj",
+      "logros": "sadghj",
+      "mecanicas": "asdghj",
+      "conclusiones": "asdghj"
+    },
+    "recursos": [
+      {
+        "tipo": "video",
+        "enlace": "asdghj",
+        "autor": "asdghj"
+      },
+      {
+        "tipo": "artículo",
+        "enlace": "ghj",
+        "autor": "ghj",
+        "titulo": "ghj",
+        "snippet": "ghj"
+      }
+    ],
+    "enlaces_compra": [
+      {
+        "plataforma": "asdghj",
+        "enlace": "asdghj"
+      },
+      {
+        "plataforma": "ghj",
+        "enlace": "ghj"
+      }
+    ]
+  },
+  {
+    "id": "aaa_aaa",
+    "titulo": "aaa aaa",
+    "imagen": "C:\\Users\\Programar\\Desktop\\pruebaCMS\\imagenes",
+    "ficha_tecnica": {
+      "plataformas": "a",
+      "desarrollador": "a",
+      "editor": "a",
+      "requisitos_minimos": {
+        "so": "a",
+        "cpu": "a",
+        "ram": "a",
+        "gpu": "a",
+        "disco": "a"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "a"
+    },
+    "opinion": {
+      "historia": "a",
+      "logros": "a",
+      "mecanicas": "a",
+      "conclusiones": "a"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "a",
+        "enlace": "a"
+      }
+    ]
+  }
+]
