@@ -605,5 +605,36 @@
         "enlace": "fghjfhj"
       }
     ]
+  },
+  {
+    "id": "aaaa",
+    "titulo": "aaaa",
+    "imagen": "../imagenes/aaaa.png",
+    "ficha_tecnica": {
+      "plataformas": "asd",
+      "desarrollador": "asd",
+      "editor": "asd",
+      "requisitos_minimos": {
+        "so": "asd",
+        "cpu": "asd",
+        "ram": "asd",
+        "gpu": "asd",
+        "disco": "asd"
+      },
+      "sinopsis": "asd"
+    },
+    "opinion": {
+      "historia": "asd",
+      "logros": "asd",
+      "mecanicas": "asd",
+      "conclusiones": "asd"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "asd",
+        "enlace": "asd"
+      }
+    ]
   }
 ]
