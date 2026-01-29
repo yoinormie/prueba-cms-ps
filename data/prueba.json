@@ -551,5 +551,59 @@
         "enlace": "DFDFDF"
       }
     ]
+  },
+  {
+    "id": "popo",
+    "titulo": "popo",
+    "imagen": "../imagenes/popo.png",
+    "ficha_tecnica": {
+      "plataformas": "ccc",
+      "desarrollador": "aa",
+      "editor": "bb",
+      "requisitos_minimos": {
+        "so": "ccsddsd",
+        "cpu": "asdrgty",
+        "ram": "yuttyurtyu",
+        "gpu": "tyutyughf",
+        "red": "ffghjfh",
+        "disco": "gfhjfhj"
+      },
+      "requisitos_recomendados": {
+        "so": "fghjfghjfghj",
+        "cpu": "fghjghjfg",
+        "ram": "fghjfhjh",
+        "gpu": "fghjfhjfhg",
+        "red": "fghjfhjf",
+        "disco": "gfhjfhj",
+        "notas": "ghjfghjfg"
+      },
+      "sinopsis": "fghjfghj"
+    },
+    "opinion": {
+      "historia": "fghjfghj",
+      "logros": "fghjfghj",
+      "mecanicas": "gfhjfghjfghj",
+      "conclusiones": "fghjfghj"
+    },
+    "recursos": [
+      {
+        "tipo": "video",
+        "enlace": "fghjfghj",
+        "autor": "fghjhj"
+      },
+      {
+        "tipo": "artículo",
+        "enlace": "fghjfhj",
+        "autor": "fghjfghj",
+        "titulo": "fghjfghjfg",
+        "snippet": "hjfhjfghjfgh"
+      }
+    ],
+    "enlaces_compra": [
+      {
+        "plataforma": "fghjfghj",
+        "enlace": "fghjfhj"
+      }
+    ]
   }
 ]
