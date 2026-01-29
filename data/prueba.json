@@ -697,5 +697,35 @@
         "enlace": "asd"
       }
     ]
+  },
+  {
+    "id": "wewe_wewe",
+    "titulo": "wewe wewe",
+    "imagen": "../imagenes/wewe_wewe.png",
+    "ficha_tecnica": {
+      "plataformas": "wewe",
+      "desarrollador": "wewe",
+      "editor": "wewe",
+      "requisitos_minimos": {
+        "so": "we",
+        "cpu": "we",
+        "ram": "we",
+        "gpu": "we",
+        "disco": "we"
+      },
+      "sinopsis": "we"
+    },
+    "opinion": {
+      "historia": "we",
+      "logros": "we",
+      "mecanicas": "we",
+      "conclusiones": "we"
+    },
+    "enlaces_compra": [
+      {
+        "plataforma": "wewe",
+        "enlace": "wewe"
+      }
+    ]
   }
 ]
