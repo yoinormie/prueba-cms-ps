@@ -519,5 +519,37 @@
         "enlace": "DFDFDF"
       }
     ]
+  },
+  {
+    "id": "sad_asd",
+    "titulo": "sad asd",
+    "imagen": "../imagenes/sad_asd.png",
+    "ficha_tecnica": {
+      "plataformas": "as",
+      "desarrollador": "aS",
+      "editor": "AS",
+      "requisitos_minimos": {
+        "so": "ASSS",
+        "cpu": "SSSS",
+        "ram": "SSSS",
+        "gpu": "FFFFF",
+        "disco": "FFFF"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "FFDFD"
+    },
+    "opinion": {
+      "historia": "DFFDFDFDFDF",
+      "logros": "DFDFD",
+      "mecanicas": "DFDFDF",
+      "conclusiones": "DFDF"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "DFDFDF",
+        "enlace": "DFDFDF"
+      }
+    ]
   }
 ]
