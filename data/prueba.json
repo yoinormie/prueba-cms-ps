@@ -263,5 +263,229 @@
         "enlace": "a"
       }
     ]
+  },
+  {
+    "id": "a",
+    "titulo": "a",
+    "imagen": "C:\\Users\\Programar\\Desktop\\pruebaCMS\\imagenes",
+    "ficha_tecnica": {
+      "plataformas": "a",
+      "desarrollador": "a",
+      "editor": "a",
+      "requisitos_minimos": {
+        "so": "a",
+        "cpu": "a",
+        "ram": "a",
+        "gpu": "a",
+        "disco": "a"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "a"
+    },
+    "opinion": {
+      "historia": "a",
+      "logros": "aa",
+      "mecanicas": "a",
+      "conclusiones": "a"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "a",
+        "enlace": "a"
+      }
+    ]
+  },
+  {
+    "id": "a",
+    "titulo": "a",
+    "imagen": "imagenes",
+    "ficha_tecnica": {
+      "plataformas": "a",
+      "desarrollador": "a",
+      "editor": "a",
+      "requisitos_minimos": {
+        "so": "a",
+        "cpu": "a",
+        "ram": "a",
+        "gpu": "a",
+        "disco": "a"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "a"
+    },
+    "opinion": {
+      "historia": "a",
+      "logros": "aa",
+      "mecanicas": "a",
+      "conclusiones": "a"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "a",
+        "enlace": "a"
+      }
+    ]
+  },
+  {
+    "id": "a",
+    "titulo": "a",
+    "imagen": "imagenes/",
+    "ficha_tecnica": {
+      "plataformas": "a",
+      "desarrollador": "a",
+      "editor": "a",
+      "requisitos_minimos": {
+        "so": "a",
+        "cpu": "a",
+        "ram": "a",
+        "gpu": "a",
+        "disco": "a"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "a"
+    },
+    "opinion": {
+      "historia": "a",
+      "logros": "aa",
+      "mecanicas": "a",
+      "conclusiones": "a"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "a",
+        "enlace": "a"
+      }
+    ]
+  },
+  {
+    "id": "a",
+    "titulo": "a",
+    "imagen": "../imagenes/",
+    "ficha_tecnica": {
+      "plataformas": "a",
+      "desarrollador": "a",
+      "editor": "a",
+      "requisitos_minimos": {
+        "so": "a",
+        "cpu": "a",
+        "ram": "a",
+        "gpu": "a",
+        "disco": "a"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "a"
+    },
+    "opinion": {
+      "historia": "a",
+      "logros": "aa",
+      "mecanicas": "a",
+      "conclusiones": "a"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "a",
+        "enlace": "a"
+      }
+    ]
+  },
+  {
+    "id": "a",
+    "titulo": "a",
+    "imagen": "../imagenes/a.png",
+    "ficha_tecnica": {
+      "plataformas": "a",
+      "desarrollador": "a",
+      "editor": "a",
+      "requisitos_minimos": {
+        "so": "a",
+        "cpu": "a",
+        "ram": "a",
+        "gpu": "a",
+        "disco": "a"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "a"
+    },
+    "opinion": {
+      "historia": "a",
+      "logros": "aa",
+      "mecanicas": "a",
+      "conclusiones": "a"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "a",
+        "enlace": "a"
+      }
+    ]
+  },
+  {
+    "id": "aa_bb_cc",
+    "titulo": "aa bb cc",
+    "imagen": "../imagenes/aa_bb_cc.jpg",
+    "ficha_tecnica": {
+      "plataformas": "cc",
+      "desarrollador": "aa",
+      "editor": "vv",
+      "requisitos_minimos": {
+        "so": "sa",
+        "cpu": "sa",
+        "ram": "aa",
+        "gpu": "bb",
+        "disco": "3233"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "1212"
+    },
+    "opinion": {
+      "historia": "1212",
+      "logros": "1212",
+      "mecanicas": "1212",
+      "conclusiones": "1212"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "Ssdad",
+        "enlace": "sadsad"
+      }
+    ]
+  },
+  {
+    "id": "aa_bb_cc",
+    "titulo": "aa bb cc",
+    "imagen": "../imagenes/aa_bb_cc.jpg",
+    "ficha_tecnica": {
+      "plataformas": "cc",
+      "desarrollador": "aa",
+      "editor": "vv",
+      "requisitos_minimos": {
+        "so": "sa",
+        "cpu": "sa",
+        "ram": "aa",
+        "gpu": "bb",
+        "disco": "3233"
+      },
+      "requisitos_recomendados": {},
+      "sinopsis": "1212"
+    },
+    "opinion": {
+      "historia": "1212",
+      "logros": "1212",
+      "mecanicas": "1212",
+      "conclusiones": "1212"
+    },
+    "recursos": [],
+    "enlaces_compra": [
+      {
+        "plataforma": "Ssdad",
+        "enlace": "sadsad"
+      }
+    ]
   }
 ]
